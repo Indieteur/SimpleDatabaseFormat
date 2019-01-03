@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>Indieteur.SimpleDatabaseFormat</id>
+    <version>1.0.0</version>
+    <title>Indieteur.SimpleDatabaseFormat</title>
+    <authors>Indieteur</authors>
+    <licenseUrl>https://github.com/Indieteur/SimpleDatabaseFormat/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/Indieteur/SimpleDatabaseFormat</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Provides the ability to retrieve and store information using basic database structure.</description>
+    <copyright>Copyright Indieteur 2019</copyright>
+    <tags>Basic, Simple, Easy, Database, Structure, File, Format</tags>
+  </metadata>
+  <files>
+	<file src="source\Indieteur.SimpleDatabaseFormat.dll" target="lib\Indieteur.SimpleDatabaseFormat.dll" />
+  </files>
+</package>
